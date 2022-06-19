@@ -1,0 +1,28 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(114, 153, 244);
+	color: rgb(2, 0, 0);
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
+
+body, html {
+	height: 100%;
+	/* The image used */
+	background-image: url("BackgroupForm.jpg");
+  
+	/* Full height */
+	height: 100%;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
